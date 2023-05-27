@@ -2,4 +2,4 @@
 
 Some text...
 
-Some other text
+Some other text!
